@@ -1,0 +1,16 @@
+{
+  "vocab_size": 396,
+  "num_classes": 5,
+  "embedding_dim": 128,
+  "num_filters": 100,
+  "filter_sizes": [
+    3,
+    4,
+    5
+  ],
+  "dropout": 0.5,
+  "learning_rate": 0.001,
+  "batch_size": 32,
+  "num_epochs": 15,
+  "max_len": 100
+}
